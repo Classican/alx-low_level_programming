@@ -1,6 +1,8 @@
 #include <stdio.h>
-/*
-* main - Entry point prints text
+/**
+* main - Entry point and prints using puts funtion
+*
+* Description: prints using puts fun
 *
 * Return: Always 0 (Success)
 */
