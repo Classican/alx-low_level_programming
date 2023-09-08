@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 /**
 * main - prints last random numbers and which is 5 < n < 6 or 0
